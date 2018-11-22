@@ -22,7 +22,6 @@ namespace BethanysPies.Controllers
             _userManager = userManager;
         }
 
-        // GET: /<controller>/
         public IActionResult Login()
         {
             return View();

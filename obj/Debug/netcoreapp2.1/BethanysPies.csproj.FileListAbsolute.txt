@@ -58,3 +58,5 @@
 /Users/leeraulin/Dropbox/Projects/BethanysPies/obj/Debug/netcoreapp2.1/BethanysPies.csproj.CopyComplete
 /Users/leeraulin/Dropbox/Projects/BethanysPies/obj/Debug/netcoreapp2.1/Razor/Views/Account/Login.g.cshtml.cs
 /Users/leeraulin/Dropbox/Projects/BethanysPies/obj/Debug/netcoreapp2.1/Razor/Views/Account/Register.g.cshtml.cs
+/Users/leeraulin/Projects/BethanysPies/obj/Debug/netcoreapp2.1/Razor/Views/Account/Login.g.cshtml.cs
+/Users/leeraulin/Projects/BethanysPies/obj/Debug/netcoreapp2.1/Razor/Views/Account/Register.g.cshtml.cs

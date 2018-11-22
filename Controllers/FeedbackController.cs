@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using BethanysPies.Models;
+﻿using BethanysPies.Models;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace BethanysPies.Controllers
 {
+    [Authorize]
     public class FeedbackController : Controller
     {
         private readonly IFeedbackRepository _feedbackRepository;
@@ -15,6 +17,7 @@ namespace BethanysPies.Controllers
         }
 
         // GET: /<controller>/
+        [Authorize]
         public IActionResult Index()
         {
             return View();

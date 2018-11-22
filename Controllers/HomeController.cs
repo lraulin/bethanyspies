@@ -15,9 +15,9 @@ namespace BethanysPies.Controllers
             _pieRepository = pieRepository;
         }
 
-        // GET: /<controllers>/
         public IActionResult Index()
         {
+            ViewBag.Title = "Pie Overview";
             var pies = _pieRepository.GetAllPies().OrderBy(p => p.Name);
             var homeViewModel = new HomeViewModel()
             {

@@ -11833,11 +11833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leeraulin/Dropbox/Projects/BethanysPies/BethanysPies.csproj",
+      "projectUniqueName": "/Users/leeraulin/Projects/BethanysPies/BethanysPies.csproj",
       "projectName": "BethanysPies",
-      "projectPath": "/Users/leeraulin/Dropbox/Projects/BethanysPies/BethanysPies.csproj",
+      "projectPath": "/Users/leeraulin/Projects/BethanysPies/BethanysPies.csproj",
       "packagesPath": "/Users/leeraulin/.nuget/packages/",
-      "outputPath": "/Users/leeraulin/Dropbox/Projects/BethanysPies/obj/",
+      "outputPath": "/Users/leeraulin/Projects/BethanysPies/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
